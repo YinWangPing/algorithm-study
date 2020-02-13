@@ -1,2 +1,1 @@
-# algorithm-study
-算法学习
+# 剑指offer
