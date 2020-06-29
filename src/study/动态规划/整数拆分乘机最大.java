@@ -1,6 +1,9 @@
 package study.动态规划;
 
 public class 整数拆分乘机最大 {
+    public static void main(String[] args) {
+        new 整数拆分乘机最大().integerBreak2(10);
+    }
     /*
     动态规划
      */
@@ -52,5 +55,14 @@ public class 整数拆分乘机最大 {
 //            return res;
 //        }
     }
-
+    public int integerBreak2(int n) {
+        int []dp=new int[n+1];
+        dp[1]=1;
+        for (int i = 2; i <=n ; i++) {
+            for (int j = 1; j <i ; j++) {
+                dp[i]=Math.max(dp[i],Math.max(dp[i-j]*j,(i-j)*j));
+            }
+        }
+        return dp[n];
+    }
 }

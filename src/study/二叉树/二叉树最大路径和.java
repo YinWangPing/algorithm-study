@@ -46,4 +46,54 @@ public class 二叉树最大路径和 {
         res[0] = Math.max(res[0], left+right+root.val);
         return Math.max(left, right) + root.val;
     }
+    int max=Integer.MIN_VALUE;
+    public int maxPathSum2(TreeNode root) {
+        if(root==null){
+            return 0;
+        }
+        int left=Math.max(0,maxPathSum2(root.left));
+        int right=Math.max(0,maxPathSum2(root.right));
+        max=Math.max(max,left+right+root.val);
+        return Math.max(left,right)+root.val;
+    }
+
+
+
+
+
+    int maxPSum=Integer.MIN_VALUE;
+    public int findMaxPathSum(TreeNode root){
+        findMaxPathSumHelper(root);
+        return maxPSum;
+    }
+    public int findMaxPathSumHelper(TreeNode root) {
+        if(root==null){
+            return 0;
+        }
+        int left=Math.max(0,findMaxPathSum(root.left));
+        int right=Math.max(0,findMaxPathSum(root.right));
+        maxPSum=Math.max(maxPSum,left+right+root.val);
+        return Math.max(left,right)+root.val;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

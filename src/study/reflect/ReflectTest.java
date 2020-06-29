@@ -1,5 +1,6 @@
 package study.reflect;
 
+import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -26,7 +27,15 @@ class MethodClass {
 
 public class ReflectTest {
     public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException, NoSuchFieldException {
-//        Class<?>clazz=MethodClass.class;
+        Class clazz1=String.class;
+        Constructor constructor=clazz1.getConstructor(String.class);
+        String string0=(String)clazz1.newInstance();
+        System.out.println(string0.toString()+(string0.equals("")));
+        String string1=(String)constructor.newInstance("adc");
+        String string2=new String("adc");
+        System.out.println(string1.equals(string2));
+        System.out.println("---------------------------------------");
+        //        Class<?>clazz=MethodClass.class;
         Class<?> clazz = Class.forName("study.reflect.MethodClass");
         //-------------------------------------------------------------
         //获取并调用add方法

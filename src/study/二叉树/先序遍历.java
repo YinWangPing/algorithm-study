@@ -50,4 +50,61 @@ public class 先序遍历 {
             }
         }
     }
+
+    public static void preOrder(TreeNode head){
+        if(head!=null){
+            System.out.println(head.val);
+            if(head.left!=null){
+                preOrder(head.left);
+            }
+            if(head.right!=null){
+                preOrder(head.right);
+            }
+        }
+    }
+    public List<Integer> preOrderByStack(TreeNode head){
+        Stack<TreeNode>stack=new Stack<>();
+        List<Integer>res=new ArrayList<>();
+        stack.push(head);
+        while (!stack.isEmpty()){
+            TreeNode curr=stack.peek();
+            res.add(curr.val);
+            if(curr.right!=null){
+                stack.push(curr.right);
+            }
+            if(curr.left!=null){
+                stack.push(curr.left);
+            }
+        }
+        return res;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

@@ -14,9 +14,9 @@ class Task1 implements Callable<String>{
     private CountDownLatch latch;
     private String taskName;
 
-    public Task1(CountDownLatch latch, String taskValue) {
+    public Task1(CountDownLatch latch, String taskName) {
         this.latch = latch;
-        this.taskName = taskValue;
+        this.taskName = taskName;
     }
 
     @Override

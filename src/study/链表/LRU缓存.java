@@ -8,7 +8,7 @@ class LRUCache<K,V> extends LinkedHashMap<K, V> {
 
     @Override
     protected boolean removeEldestEntry(Map.Entry<K, V> eldest) {
-        return size()>MAX_ENTRIES;
+        return true;
     }
     LRUCache(){
         super(MAX_ENTRIES,0.75f,true);

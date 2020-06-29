@@ -1,14 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="392c819d-71c3-4a73-8cbd-3e283c121549" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/study/动态规划/区域和检索.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/动态规划/按平方数来分割整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/动态规划/整数拆分乘机最大.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/动态规划/矩阵中的不同路径数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/动态规划/等差递增子区间个数.java" afterDir="false" />
+    <list default="true" id="392c819d-71c3-4a73-8cbd-3e283c121549" name="Default Changelist" comment="add dp">
+      <change afterPath="$PROJECT_DIR$/src/study/AQS/BlockingQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/AQS/CountDownLatchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/AQS/CyclicBarrierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/AQS/FutureTaskExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/AQS/ReentrantLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/AQS/ThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/JDKProxy/CglibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/JDKProxy/Hacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/JDKProxy/JDKDynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/JDKProxy/MyClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/JDKProxy/MyGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/JDKProxy/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/JDKProxy/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/JDKProxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/Spring/AOP/MyAOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/Vivo/数位之积.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/Vivo/智能手机锁.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/Vivo/量产手机.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/二叉树/两节点的最长路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/动态规划/分割整数构成字母字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/动态规划/摆动序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/动态规划/最长上升子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/动态规划/最长不含重复字符的子字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/动态规划/最长公共子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/动态规划/最长数对链.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/动态规划/最长连续公共子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/多线程/CountDownLantchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/多线程/CyclicBarrierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/序列化/SerializableConcurrentModification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/序列化/SerializableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/异常/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/数学/错位相减法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/数据库/Mysql连接.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/笔试/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/线程/SynchronizedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/设计模式/StaticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/动态规划/矩阵最小最大路径和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/动态规划/矩阵最小最大路径和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/study/reflect/MethodClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/study/reflect/MethodClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/study/reflect/ReflectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/study/reflect/ReflectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/study/二叉树/二叉树中序遍历.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/study/二叉树/二叉树中序遍历.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/study/二叉树/先序遍历.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/study/二叉树/先序遍历.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/study/动态规划/整数拆分乘积最大.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/study/动态规划/最长递增子序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/study/动态规划/最长递增子序列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/study/动态规划/矩阵最小最大路径和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/study/动态规划/矩阵最小最大路径和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/study/线程/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/study/线程/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/笔试/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/笔试/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/笔试/StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/笔试/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/笔试/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/笔试/demo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/笔试/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/笔试/point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/reflect/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/reflect/ReflectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/二叉树/二叉树中序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/二叉树/二叉树中序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/二叉树/二叉树最大路径和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/二叉树/二叉树最大路径和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/二叉树/先序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/二叉树/先序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/二叉树/重建二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/二叉树/重建二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/动态规划/按平方数来分割整数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/动态规划/按平方数来分割整数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/动态规划/整数拆分乘机最大.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/动态规划/整数拆分乘机最大.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/动态规划/整数拆分乘积最大.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/动态规划/最长递增子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/动态规划/最长递增子序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/排序/数组中第K大的元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/排序/数组中第K大的元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/线程/CountDownLanchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/线程/CountDownLanchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/链表/LRU缓存.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/链表/LRU缓存.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试/OverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/笔试/OverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/笔试/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/笔试/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/笔试/demo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +82,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,10 +95,24 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/src" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cug125\Desktop\algorithm-study\src\study\设计模式\JDK代理" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cug125\Desktop\algorithm-study\src\study\笔试" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,13 +126,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="旋转数组的最小数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.二分查找.旋转数组的最小数字" />
+  <component name="RunManager" selected="Application.CyclicBarrierExample">
+    <configuration name="最长连续公共子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.动态规划.最长连续公共子序列" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.二分查找.*" />
+          <option name="PATTERN" value="study.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="归并两个有序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.双指针.归并两个有序数组" />
+    <configuration name="CyclicBarrierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.多线程.CyclicBarrierExample" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.双指针.*" />
+          <option name="PATTERN" value="study.多线程.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +153,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.二分查找.二分查找" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.Main" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.二分查找.*" />
+          <option name="PATTERN" value="笔试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="按颜色进行排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.排序.按颜色进行排序" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="整数拆分乘机最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.动态规划.整数拆分乘机最大" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="给表达式加括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.分治.给表达式加括号" />
+    <configuration name="最长不含重复字符的子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.动态规划.最长不含重复字符的子字符串" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.分治.*" />
+          <option name="PATTERN" value="study.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="寻找比目标字母大的第一个字母" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.二分查找.寻找比目标字母大的第一个字母" />
+    <configuration name="最长递增子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.动态规划.最长递增子序列" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.二分查找.*" />
+          <option name="PATTERN" value="study.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +244,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="有序数组的单一元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.二分查找.有序数组的单一元素" />
+    <configuration name="数位之积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.Vivo.数位之积" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.二分查找.*" />
+          <option name="PATTERN" value="study.Vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="量产手机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.Vivo.量产手机" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.Vivo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="按颜色进行排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.排序.按颜色进行排序" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.test" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.排序.*" />
+          <option name="PATTERN" value="笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,7 +298,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.旋转数组的最小数字" />
+        <item itemvalue="Application.最长连续公共子序列" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.CyclicBarrierExample" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +325,42 @@
       <workItem from="1588728460110" duration="3942000" />
       <workItem from="1588777559736" duration="113000" />
       <workItem from="1588838566723" duration="3040000" />
-      <workItem from="1588924060465" duration="8687000" />
+      <workItem from="1588924060465" duration="8801000" />
+      <workItem from="1589007801894" duration="181000" />
+      <workItem from="1589008011028" duration="93000" />
+      <workItem from="1589008154831" duration="681000" />
+      <workItem from="1589009789797" duration="5000" />
+      <workItem from="1589010711378" duration="569000" />
+      <workItem from="1589160387907" duration="9291000" />
+      <workItem from="1589203153140" duration="5219000" />
+      <workItem from="1589599338691" duration="1397000" />
+      <workItem from="1589612055966" duration="272000" />
+      <workItem from="1589788548135" duration="9275000" />
+      <workItem from="1589855595478" duration="11426000" />
+      <workItem from="1589939831719" duration="11722000" />
+      <workItem from="1590074377718" duration="775000" />
+      <workItem from="1590417820113" duration="1663000" />
+      <workItem from="1590485904300" duration="2118000" />
+      <workItem from="1590542464351" duration="8885000" />
+      <workItem from="1590571265879" duration="3784000" />
+      <workItem from="1590627457043" duration="13918000" />
+      <workItem from="1590725618833" duration="3437000" />
+      <workItem from="1590826617984" duration="2240000" />
+      <workItem from="1590887713534" duration="7596000" />
+      <workItem from="1590999215617" duration="2195000" />
+      <workItem from="1591080538263" duration="2208000" />
+      <workItem from="1591148293310" duration="3114000" />
+      <workItem from="1591156891736" duration="934000" />
+      <workItem from="1591443409607" duration="2071000" />
+      <workItem from="1591514410030" duration="6032000" />
+      <workItem from="1591754346772" duration="3796000" />
+      <workItem from="1591793632846" duration="6131000" />
+      <workItem from="1592114046404" duration="1951000" />
+      <workItem from="1592299126691" duration="6006000" />
+      <workItem from="1592362720996" duration="5362000" />
+      <workItem from="1592488156138" duration="3663000" />
+      <workItem from="1592554230927" duration="4104000" />
+      <workItem from="1592788025717" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="add二分，分治，双指针">
       <created>1588736284860</created>
@@ -214,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588736284860</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add dp">
+      <created>1588950690860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588950690860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,8 +396,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add二分，分治，双指针" />
-    <option name="LAST_COMMIT_MESSAGE" value="add二分，分治，双指针" />
+    <MESSAGE value="add dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -246,22 +410,22 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/笔试/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/study/笔试/Main.java</url>
           <line>47</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/笔试/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/study/笔试/Main.java</url>
           <line>48</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/笔试/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/study/笔试/Main.java</url>
           <line>44</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/笔试/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/study/笔试/Main.java</url>
           <line>40</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -299,6 +463,79 @@
           <url>file://$PROJECT_DIR$/src/study/分治/给表达式加括号.java</url>
           <line>7</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/动态规划/整数拆分乘机最大.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/动态规划/最长上升子序列.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/异常/MyException.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/Vivo/智能手机锁.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/Vivo/数位之积.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/Vivo/量产手机.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/Vivo/量产手机.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/Vivo/智能手机锁.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/数学/错位相减法.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/test.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/动态规划/最长递增子序列.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/动态规划/最长不含重复字符的子字符串.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/study/JDKProxy/Programmer.java</url>
+          <line>3</line>
+          <properties class="study.JDKProxy.Programmer" method="code">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

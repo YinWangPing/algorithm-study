@@ -85,4 +85,52 @@ public class 二叉树中序遍历 {
             }
         }
     }
+
+    public static List<Integer> inOrderByStack(TreeNode root){
+        List<Integer>res=new ArrayList<>();
+        if (root==null){
+            return res;
+        }
+        Stack<TreeNode> stack=new Stack<>();
+        TreeNode curr=root;
+        while (curr!=null||!stack.isEmpty()){
+            while (curr!=null){
+                stack.push(curr);
+                curr=curr.left;
+            }
+            curr=stack.pop();
+            res.add(curr.val);
+            curr=curr.right;
+        }
+        return res;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
